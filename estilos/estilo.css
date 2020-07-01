@@ -10,6 +10,13 @@ body {
 }
 
 #container {
+    background: #ede9cc url(../imagens/bg-container.png) repeat-y top center;
+    margin: 0 auto;
+    min-width: 740px;
+    max-width: 1180px;
+}
+
+#container-uma-coluna{
     background: #ede9cc;
     margin: 0 auto;
     min-width: 740px;
@@ -121,3 +128,96 @@ ul#navegacao a:hover {
     float: right;
 }
 
+#area-principal {
+    float: left;
+    width: 50%;
+    padding: 15px 0;
+    background: url(../imagens/bg-area-principal.png) repeat-x top left;
+}
+
+#area-lateral {
+    float: right;
+    width: 50%;
+    padding: 20px 0;
+    background: url(../imagens/bg-area-lateral.png) repeat-x top left;
+}
+
+#uma-coluna {
+    padding: 15px 0;
+    background: url(../imagens/bg-area-principal.png) repeat-x top left;
+}
+
+.conteudo {
+    margin: 0 auto;
+    width: 90%;
+}
+
+h2 {
+    color: #7d7640;
+    font-size: 1.1em;
+    padding: 5px 0;
+}
+
+p{
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+#rodape {
+    padding: 16px;
+    background: #ffffff url(../imagens/bg-rodape.png) repeat-x top;
+    color: #7d7640;
+    text-align: center;
+}
+
+#espacos li{
+    padding: 8px;
+    border-bottom: 1px solid #f3efcb;
+    height: 6em;
+}
+
+#espacos li a img {
+    float: left;
+    margin-right: 8px;
+}
+
+#espacos li a p{
+    color: #000000;
+    font-size: 0.8em;
+}
+
+#espacos li h3 {
+    font-size: 1.1em;
+    color: #615b2d;
+    padding: 5px 0;
+    background: url(../imagens/ornamento.png) no-repeat center right;
+}
+
+#espacos li:hover {
+    background: #f6f3d6;
+    cursor: pointer;
+}
+
+label {
+    display: block;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+input {
+    width: 20em;
+}
+
+textarea {
+    width: 20em;
+    height: 10em;
+}
+
+.enviar {
+    margin: 10px 0;
+}
+
+.formulario {
+    margin: 0 auto;
+    width: 90%;
+}
