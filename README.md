@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusFilipe21/chale-hotel-html-css/blob/master/LICENSE)
 
 # Sobre o projeto
-Projeto desenvolvido para exercitar os conceitos básicos adquiridos na parte inicial do curso, nele é possível visualizar uma site de um hotel, ao redimensionar o site um efeito muito interessante acontece, para fazer esse efeito foi utilizado somente CSS.
+Projeto desenvolvido para exercitar os conceitos básicos adquiridos na parte inicial do curso, nele é possível visualizar um site de um hotel, ao redimensionar o site um efeito muito interessante acontece, para fazer esse efeito foi utilizado somente CSS.
 
 Projeto desenvolvido com base no curso [Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/ "Udemy").
 
